@@ -1,2 +1,2 @@
 # POO-Programacao-Orientada-A-Objetos
-Programacao Orientada A Objetos Com Java - Projeto Desenvolve - Itabira
+RAFAEL NONATO - PDITA 158 - ITABIRA
